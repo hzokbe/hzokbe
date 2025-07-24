@@ -1,6 +1,6 @@
 # 💻 Tech Stack:
 
-[![Tech](https://skillicons.dev/icons?i=html,css,js,ts,vue,postman,java,spring,postgres,mongo,redis,python,fastapi,haskell,rust,c,docker,linux,git&perline=4)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=html,css,js,ts,vue,next,postman,java,spring,postgres,mongo,redis,python,fastapi,haskell,rust,c,docker,linux,git&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
