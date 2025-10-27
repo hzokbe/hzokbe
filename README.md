@@ -2,7 +2,7 @@
 
 - Brazilian 🇧🇷
 
-- 21 years old 🎂
+- 22 years old 🎂
 
 - Working at [Crono Wise](https://www.cronowise.com.br/)
 
