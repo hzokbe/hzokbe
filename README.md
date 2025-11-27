@@ -8,7 +8,31 @@
 
 # 💻 Tech Stack:
 
-[![Tech](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,postman,java,spring,postgres,mongo,redis,python,fastapi,haskell,rust,c,docker,linux,git&perline=4)](https://skillicons.dev)
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- VueJS
+- NextJS
+
+- Java
+- Python
+- Haskell
+- Rust
+- C
+- Assembly (x86-64)
+- Spring Boot
+- FastAPI
+- PostgreSQL
+- MongoDB
+- Redis
+
+- Docker
+
+- Linux
+
+- Git
 
 # 📊 GitHub Stats:
 
