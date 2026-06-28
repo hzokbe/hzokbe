@@ -21,6 +21,8 @@ Experiência com **programação de baixo nível**, incluindo **C** e **Assembly
 - **PostgreSQL** 🐘
 - **MongoDB** 🍃
 - **Redis** 🔴
+- **PHP** 🐘
+- **Laravel** 🟠
 
 ### **Front-End** 🎨
 
